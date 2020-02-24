@@ -1,0 +1,26 @@
+_repo: Persephone-of-Eleusis-A-Romance-of-Ancient-Greece_61449
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harris, Clare Winger
+    birthdate: 1891
+    deathdate: 1968
+    gutenberg_agent_id: '51432'
+    url: http://www.gutenberg.org/2009/agents/51432
+    wikipedia: https://en.wikipedia.org/wiki/Clare_Winger_Harris
+description: ''
+gutenberg_issued: '2020-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61449'
+  lccn: '23001439'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Greece -- Fiction'
+- GITenberg
+title: 'Persephone of Eleusis: A Romance of Ancient Greece'
+url: http://www.gutenberg.org/ebooks/61449
